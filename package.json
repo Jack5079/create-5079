@@ -1,0 +1,30 @@
+{
+  "name": "create-5079",
+  "version": "1.0.0",
+  "description": "make js stuff, the jack5079 way",
+  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
+  "exports": "./index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack5079/create-5079.git"
+  },
+  "author": "Jack <npm@5079.ml> (https://5079.ml)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack5079/create-5079/issues"
+  },
+  "homepage": "https://github.com/Jack5079/create-5079#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "enquirer": "^2.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
